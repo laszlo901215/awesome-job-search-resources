@@ -13,6 +13,7 @@
 - [�� Learning Resources](#-learning-resources)
 - [🛠️ Tools & Extensions](#️-tools--extensions)
 - [�� Career Advice](#-career-advice)
+- [💼 Job Boards](#-job-boards)
 - [�� Community](#-community)
 - [🤝 Contributing](#-contributing)
 - [�� License](#-license)
@@ -81,6 +82,11 @@
 - [Research Your Worth](career-advice/salary-negotiation/research-your-worth.md)
 - [Negotiation Scripts](career-advice/salary-negotiation/negotiation-scripts.md)
 - [Benefits to Consider](career-advice/salary-negotiation/benefits-to-consider.md)
+
+## 💼 Job Boards
+
+### Student & New Grad Roles
+- [Hanzilla Jobs](https://jobs.hanzilla.co/new-grad/) - Daily-updated Canadian student and recent-grad jobs board covering internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
 
 ## �� Community
 
