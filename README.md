@@ -60,6 +60,9 @@
 
 ## ��️ Tools & Extensions
 
+### Resume & Job Search Tools
+- [AI Resume Project Bullet Quantifier](https://ronnie2025.github.io/ai-resume-project-bullet-quantifier/) - Free browser-based tool for turning raw project notes into stronger resume bullets, metric gaps, and interview follow-up prompts.
+
 ### Productivity Tools
 - [Notion](https://www.notion.so/) - All-in-one workspace
 - [Obsidian](https://obsidian.md/) - Knowledge management
