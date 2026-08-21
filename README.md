@@ -117,3 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **If this repository helped you, please give it a star!** ⭐
+- [JobFit](https://github.com/andrwspt/jobfit) — Free offline resume gap checker. Paste your resume + a job description, get your match score and the exact keywords you're missing. 100% client-side, no tracking, no account.
