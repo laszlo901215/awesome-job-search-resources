@@ -65,6 +65,9 @@
 - [Obsidian](https://obsidian.md/) - Knowledge management
 - [Toggl](https://toggl.com/) - Time tracking
 
+### Resume & ATS Tools
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker + live candidate leaderboard (State of ATS 2026: 738 employers, 704 portal-verified; Workday 37.9%)
+
 ### Browser Extensions
 - [Wappalyzer](https://www.wappalyzer.com/) - Technology profiler
 - [ColorZilla](https://www.colorzilla.com/) - Color picker
