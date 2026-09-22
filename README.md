@@ -64,6 +64,7 @@
 - [Notion](https://www.notion.so/) - All-in-one workspace
 - [Obsidian](https://obsidian.md/) - Knowledge management
 - [Toggl](https://toggl.com/) - Time tracking
+- -[Keel](https://github.com/KeelDev-tech/keel)- Open-core job-application autopilot focused on honest automation with human-gated AI.
 
 ### Browser Extensions
 - [Wappalyzer](https://www.wappalyzer.com/) - Technology profiler
