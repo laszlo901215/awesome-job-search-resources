@@ -61,6 +61,7 @@
 ## ��️ Tools & Extensions
 
 ### Productivity Tools
+- [JobEmerge](https://www.jobemerge.work/) - Job-fit analysis, resume translation, Markdown editing, mock interviews, and application tracking
 - [Notion](https://www.notion.so/) - All-in-one workspace
 - [Obsidian](https://obsidian.md/) - Knowledge management
 - [Toggl](https://toggl.com/) - Time tracking
