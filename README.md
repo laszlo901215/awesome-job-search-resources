@@ -64,6 +64,7 @@
 - [Notion](https://www.notion.so/) - All-in-one workspace
 - [Obsidian](https://obsidian.md/) - Knowledge management
 - [Toggl](https://toggl.com/) - Time tracking
+- [ResumeMetric](https://resumemetric.com/) - Client-side ATS resume scanner and job-description keyword matcher that parses PDF/DOCX files locally in the browser with zero server uploads, alongside 25 ATS-friendly templates and 16 career calculators. Free, no account required.
 
 ### Browser Extensions
 - [Wappalyzer](https://www.wappalyzer.com/) - Technology profiler
